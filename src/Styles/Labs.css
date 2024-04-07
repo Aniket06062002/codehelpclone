@@ -1,0 +1,19 @@
+.coming-soon-container {
+    text-align: center;
+    
+    background-color: rgb(30, 135, 255);
+    padding-top: 12rem;
+    padding-bottom: 8rem;
+
+}
+
+.coming-soon-container h1 {
+    font-size: 36px;
+    color: #ffd9d9;
+}
+
+.coming-soon-container p {
+    font-size: 18px;
+    color: #e7d6d6;
+  }
+
